@@ -2,7 +2,7 @@
 
 1. right-click on the **playing** video, select Copy link
 1. find Wistia video ID in the copied link e.g. `wvideo=tra6gsm6rl`
-   - alternative: look for `hashedId=tra6gsm6rl` in the page source
+   - alternative: look for e.g. `hashedId=tra6gsm6rl` in the page source
 1. load `http://fast.wistia.net/embed/iframe/` + video ID in your browser
 1. look for `"type":"original"` in the page source and
    copy the URL from the next line
