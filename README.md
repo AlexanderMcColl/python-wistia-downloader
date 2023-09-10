@@ -1,5 +1,6 @@
 # python-wistia-downloader
 ## About
+Forked from a gist.
 This repo is a fairly janky (but working) way of downloading videos hosted on the Wistia cloud platform.
 
 No guarantee, no warranty yada yada.
